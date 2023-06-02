@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 @Component
 public class RecaptchaVerifier {
     private final String RECAPTCHA_VERIFY_URL = "https://www.google.com/recaptcha/api/siteverify";
-    private final String SECRET_KEY = "6LfiwUMmAAAAABFYAblbj4CWFGRohSDhybL0VQ2U";
+    private final String SECRET_KEY = "6LeUvGAmAAAAAEihLj7jxuRjOeB_70vNUPu6juYq";
 
 //    private final String SECRET_KEY = "6LeTbEkmAAAAAELPDS_Gdvb-wlu2t2FLzMt9Wznw";
 
